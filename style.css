@@ -2,6 +2,8 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    font-family: system-ui, sans-serif;
+
 }
 :root {
     --main-color : #30b7ec;
